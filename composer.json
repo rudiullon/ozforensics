@@ -1,0 +1,16 @@
+{
+    "name": "rudiullon/ozforensics",
+    "description": "A simple package to interact with ozforensics API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rudi Ullon",
+            "email": "rudi@ullon.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev"
+    }
+}
